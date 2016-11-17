@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="query_suggestions">
+        <item>gundem</item>
+        <item>yerel-haberler</item>
+        <item>kelebek</item>
+        <item>spor</item>
+        <item>egitim</item>
+        <item>dunya</item>
+        <item>teknoloji</item>
+        <item>ekonomi</item>
+        <item>astroloji</item>
+
+    </string-array>
+
+    <string-array name="query_show">
+        <item>Gündem</item>
+        <item>Yerel haberler</item>
+        <item>Kelebek</item>
+        <item>Spor</item>
+        <item>Egitim</item>
+        <item>Dunya</item>
+        <item>Teknoloji</item>
+        <item>Ekonomi</item>
+        <item>Astroloji</item>
+
+    </string-array>
+
+</resources>

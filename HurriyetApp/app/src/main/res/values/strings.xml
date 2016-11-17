@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hurriyet App</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Haber ara</string>
+
+    <string-array name="colorList">
+
+        <item >Black</item>
+        <item >White</item>
+        <item >Red</item>
+        <item >Blue</item>
+        <item >Yellow</item>
+        <item >Green</item>
+        <item >Brown</item>
+        <item >Pink</item>
+        <item >Orange</item>
+        <item >Purple</item>
+    </string-array>
+
+</resources>
