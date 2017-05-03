@@ -1,11 +1,11 @@
 # HÜRRİYET APİ İLE HABER UYGULAMASI ÖRNEĞİ
 
-##Açıklama:
+## Açıklama:
 Bu uygulama örnek olarak android ortaminda hurriyet api’lerine baglanarak kullanicin girdigi konudaki haberleri arayan ve bu haberleri bir listede tek tek gosteren bir uygulamadır. Kullanici ilk ekranda normal haberleri görür eğer isterse aramak istedigi kelimeyi actionbar' a yazar ( gundem / spor v.b. ) , mobil app sayfada hurriyet uzerindeki bu kelime ile ilgili aramayi gerceklestirir. Haberler  10 tane parti olarak gelmekte, kullanici en alttaki habere geldiginde bir istek daha yaparak, sonraki 10 haberin gelmesi saglanmaktadır. Eger kelime ile ilgili bir haber yoksa veya son sayfaya gelinmisse, kullaniciya bir toast ile mesaj gosterimektedir.
 
 [![Screen Shot](image/4.PNG)](https://youtu.be/5z1fxTx6RvI)
 
-##Uygulama Basamakları:
+## Uygulama Basamakları:
 1.	Uygulamada hürriyet api lerini kullanarak haber sorgulama gerçekleştirdik. Gerçekleştirdiğimiz bu sorgulama sonucu ilk 10 haber paketi listelenir eğer kullanıcı en son habere geldikten sonra, bir sonraki 10 luk haber paketi daha yüklenir. Haberler gösterim şekli yukardan aşağıya Haber başlığı, haber görseli, haber açıklaması ve haber linki şeklindedir.
 
 [![Screen Shot](image/5.PNG)]
@@ -23,7 +23,7 @@ Recycler view ‘de verileri göstermek ve haberleri 10’ar parti halinde yükl
 
 Uygulamayla ilgili kısa anlatım videosu:  (https://youtu.be/5z1fxTx6RvI )
 
-##KAYNAKLAR:
+## KAYNAKLAR:
 https://github.com/Muratoter/HurriyetApi
 
 https://github.com/MiguelCatalan/MaterialSearchView
